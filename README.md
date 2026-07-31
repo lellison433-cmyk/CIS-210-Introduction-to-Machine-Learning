@@ -1,5 +1,3 @@
-# CIS-210-Introduction-to-Machine-Learning
-
 # CIS 210: Introduction to Machine Learning
 
 Welcome to the course repository for CIS 210. This repository contains datasets, Jupyter notebooks, assignments, and supporting resources used throughout the course.
