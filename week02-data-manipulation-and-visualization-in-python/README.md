@@ -32,6 +32,6 @@ Note - 2.1 does not have a practice notebook and M 0.1 - 0.2 are PowerPoint lect
 
 - **M 0.3 - Preparing Data for Machine Learning (Notebook)**
   - [M 0.3 Video Jupyter Notebook](https://colab.research.google.com/drive/1YgJqFExyFPz8VXNbCIWSKUIlH2_nNbFn?usp=sharing)
-  - [M 0.3 Practice Jupyter Notebook]()   
+  - [M 0.3 Practice Jupyter Notebook](https://colab.research.google.com/drive/1jIKlzX99FpWX5SVGvTVHuRg32l9VXJA_?usp=sharing)   
 
 Note - the relevant datasets for this week can be found in the datasets folder.
