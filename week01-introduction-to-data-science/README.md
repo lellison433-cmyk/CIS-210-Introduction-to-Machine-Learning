@@ -4,10 +4,10 @@ This folder contains the materials for Week 1 of CIS 210.
 
 ## Videos
 
-- [M 0.1 - Machine Learning Fundamentals](https://youtu.be/7IZK9E2-rJc?si=4FpUp8t_AoNVtxbk)
+- [1.1 - What is Data Science?](https://youtu.be/VUkiGXV75qo?si=qIjuGxrh-N2CKQGp)
 - [1.2 - Statistics for Data Science](https://youtu.be/NcjGNJzvGMI)
 - [1.3 - Choosing Appropriate Visualizations](https://youtu.be/ygqlT71R5-E)
-- [1.4 - Introduction to Jupyter Notebooks](https://youtu.be/ilv_MtCJwy8)
+- [1.4 - Introduction to Jupyter Notebooks](https://youtu.be/bsm6uGVVe2E)
 
 ## Jupyter Notebooks
 
