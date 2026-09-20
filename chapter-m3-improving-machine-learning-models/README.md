@@ -1,6 +1,6 @@
 # Chapter M3: Improving Machine Learning Models
 
-This folder contains the materials for Chapter M3 (machine learning chapter 2) of CIS 210.
+This folder contains the materials for Chapter M3 (machine learning chapter 3) of CIS 210.
 
 ## Videos
 
