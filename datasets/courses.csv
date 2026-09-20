@@ -1,0 +1,26 @@
+course_id,course_name,department,credits
+CIS112,Cloud Foundations with AWS,CIS,3
+CIS116,Introduction to Computer Programming,CIS,3
+CIS123,Computer Science I,CIS,4
+CIS171,Database Design and Development,CIS,3
+CIS210,Introduction to Machine Learning,CIS,3
+CIS223,Computer Science II,CIS,4
+CIS230,Programming for Data Science,CIS,3
+CIS241,Web Application Programming I,CIS,3
+EN101,English Composition I,EN,3
+EN102,English Composition II,EN,3
+EN120,Improving Editing and Proofreading,EN,1
+EN262,American Literature II,EN,3
+COM131,Fundamentals of Public Speaking,COM,3
+BI117,General Human Anatomy and Physiology,BI,4
+BI153,Plant Biology,BI,4
+CHM230,Introduction to Organic and Biochemistry,CHM,4
+EC251,Principles of Macroeconomics,EC,3
+PY201,General Psychology,PY,3
+PY271,Introduction to Behavioral Neuroscience,PY,3
+PH125,College Physics I,PH,5
+HS101,Western Civilization to 1500,HS,4
+HS215,The Modern World,HS,3
+PS110,American Government and Politics,PS,3
+BA101,Business and Technical English I,BA,3
+CHI101,Introductory Chinese I,CHI,4

@@ -1,0 +1,509 @@
+alien_id,name,species,region,arrival_date,age_centuries,antenna_count,crystal_energy_index,bioluminescence_level,glow_duration_minutes,telepathy_score,hover_height_cm,occupation
+A0080,Sylyxar,Luminar,Crystal Forest,2025-09-24,3.6,5,66.7,High,149.6,40.5,71.7,Farmer
+A0317,Rynsolax,Crystalian,Floating Islands,2024-11-24,,7,73.9,Medium,121.7,61.2,79.3,Explorer
+A0486,Zendraexus,Aquari,Ice Plains,2024-08-13,6.9,5,59.4,High,147.4,48.0,123.0,Planetary Guardian
+A0397,Lumshaari,GRAVITAR,Lava B.,2024-01-17,4.5,7,36.4,Low,58.4,64.1,28.4,Planetary Guardian
+A0168,Xantriarae,LUMINAR,Crystal Forest,2025-12-27,6.1,5,77.4,Medium,125.2,48.2,52.6,Explorer
+A0494,Astryxis,Luminar,Floating Islands,2024-05-03,4.6,7,84.3,High,153.2,67.4,118.2,Crystal Miner
+A0064,Drakraora,Crystalian,Crystal Forest,2025-03-27,4.3,5,90.3,Low,102.1,59.2,49.3,Planetary Guardian
+A0186,Kelraalis,Nebulon,Ice Plains,,2.6,10,53.6,Medium,85.8,64.1,86.6,Farmer
+A0085,Jaxaris,Crystalian,Lava Basin,2025-12-20,,5,64.8,Medium,130.0,37.7,10.2,Farmer
+A0125,Myrlyis,Luminar,Floating Islands,2025-08-19,,11,63.7,High,107.1,52.3,124.1,Explorer
+A0074,Zephsolnax,Gravitar,Lava Basin,2025-12-26,,2,34.8,Low,48.8,16.5,1.1,Crystal Miner
+A0285,Aquaeon,Nebulon,Floating Islands,2024-06-21,8.8,12,60.8,Medium,80.3,100.0,111.2,Research Scientist
+A0132,Myralon,Luminar,Ice Plains,2024-10-06,1.1,3,54.3,Medium,100.8,39.5,81.2,Planetary Guardian
+A0069,Astrdrauron,Luminar,Northern Crater,2024-12-27,,7,67.5,Medium,118.2,56.2,94.3,Planetary Guardian
+A0071,Korvoalis,Gravitar,Lava Basin,2024-05-20,7.4,6,42.9,Medium,69.5,,0.0,Research Scientist
+A0473,Syltrieron,Luminar,Floating Islands,2024-04-28,8.1,7,,Medium,138.5,66.2,116.3,Farmer
+A0248,Kelorin,Aquari,Ice Plains,2025-03-04,6.0,6,62.0,Low,70.2,56.9,90 cm,C. Miner
+A0031,Zorthalon,Nebulon,Northern Crater,2025-01-07,,13,50.0,Low,99.9,100.0,109.8,Crystal Miner
+A0010,Praxzorul,Nebulon,Northern Crater,2024-10-19,,12,57.0,Low,74.9,86.2,89.1,Planetary Guardian
+A0056,Aquadraeon,Aquari,Ice Plains,2024-06-07,7.2,5,68.1,Medium,123.8,73.7,120.5,Planetary Guardian
+A0322,Drakalis,Nebulon,Crystal Forest,2024-03-20,3.3,10,59.0,Low,85.7,69.1,61.1,
+A0407,Quixaris,Crystalian,Northern Crater,2024-01-10,,4,73.2,High,125.0,57.3,52.1,Merchant
+A0476,Tordraul,Aquari,Floating Islands,2024-05-28,2.7,7,59.0,Medium,86.2,58.7,170.3,Explorer
+A0401,Myrquaek,Luminar,Crystal Forest,2024-05-08,7.6,10,80.8,High,162.7,,78.5,Crystal Miner
+A0173,Syllyuun,Nebulon,Crystal Forest,2025-04-15,4.7,14,81.6,Medium,148.7,100.0,75.9,Explorer
+A0377,Zoreron,Gravitar,Ice Plains,2025-12-03,7.9,7,47.5,Medium,75.0,60.7,20.1,Planetary Guardian
+A0483,Quixtriara,Crystalian,Crystal Forest,2024-12-16,6.5,6,94.6,Medium,136.4,51.2,21.5,Explorer
+A0269,Kortrilor,Crystalian,Crystal Forest,2024-06-12,3.3,5,94.1,Low,111.1,38.3,27.0,Explorer
+A0141,Fynmonos,Aquari,Crystal Forest,2024-06-15,1.0,3,66.0,High,145.9,33.6,117.0,Merchant
+A0230,Zorsoliona,Nebulon,Floating Islands,2024-07-14,7.3,14,34.1,Low,22.2,100.0,104.4,Planetary Guardian
+A0450,Cellor,Luminar,,2024-09-17,6.3,5,,Low,123.2,43.4,129.1,
+A0181,Graxek,Crystalian,Northern Crater,,4.9,1,72.5,Low,78.1,31.7,35.5,Farmer
+A0073,Sylnoryxis,Luminar,Crystal Forest,2024-10-03,4.6,8,65.8,High,113.3,57.8,61.7,Crystal Miner
+A0276,Korvul,Nebulon,Crystal Forest,2025-04-27,1.8,11,76.9,Low,94.2,82.0,88.6,Crystal Miner
+A0232,Talmiros,Nebulon,Northern Crater,2024-11-06,6.1,10,69.5,Low,350.0,77.5,81.6,Research Scientist
+A0209,Kelquayth,Luminar,Crystal Forest,2024-05-28,7.4,6,81.6,High,140.4,77.9,106.2,Research Scientist
+A0321,Velxelix,Nebulon,Northern Crater,2024-09-19,4.9,11,59.0,High,143.9,90.9,66.1,Research Scientist
+A0378,Opharax,Luminar,Float. Islands,2024-11-03,,7,73.1,High,152.2,62.1,142.9,Scout
+A0154,Lumarae,Crystalian,Ice Plains,2025-05-31,5.9,3,84.0,Medium,132.6,60.4,27.3,Explorer
+A0451,Drakius,Gravitar,Lava Basin,2024-12-15,,6,41.5,Low,52.8,57.1,0.0,Planetary Guardian
+A0235,Tornoretha,Luminar,Crystal Forest,2025-02-09,7.0,5,69.6,High,132.7,37.9,88.1,Explorer
+A0424,Talthaluron,Crystalian,Ice Plains,2025-05-19,4.0,7,65.1,Medium,109.1,55.1,40.3,Crystal Miner
+A0003,Vexvekorix,Nebulon,Floating Islands,2025-09-20,7.1,7,60.7,High,124.9,85.1,120.2,Farmer
+A0404,Kryquaionis,Gravitar,Lava Basin,2025-07-13,4.1,4,31.4,Low,53.6,17.7,0.0,Merchant
+A0302,Ophetha,Nebulon,Floating Islands,2025-04-11,5.9,13,79.3,Medium,123.0,87.0,118.1,Farmer
+A0416,Astrmonyxar,Crystalian,Crystal Forest,2025-04-11,4.3,7,97.7,Medium,153.9,53.6,17.8,Farmer
+A0325,Zorvekuun,Aquari,Ice Plains,2024-09-16,3.9,1,52.8,Medium,101.5,,140.4,Farmer
+A0368,Zorthalax,Aquari,Floating Islands,2025-11-23,4.4,5,59.6,Medium,88.8,,141.8,Farmer
+A0251,Zorzororin,Luminar,Crystal Forest,2025-10-31,-1.0,8,63.5,High,109.6,70.8,70.9,Merchant
+A0118,Korvaris,Luminar,Crystal Forest,2025-08-12,6.6,9,93.0,High,183.4,77.5,76.6,Farmer
+A0077,Kryius,Gravitar,Floating Islands,2025-06-04,,2,39.4,Medium,64.3,21.7,74.1,Planetary Guardian
+A0492,Zephshaaris,Nebulon,Northern Crater,2025-10-26,-3.0,12,48.9,High,137.1,100.0,103.5,Planetary Guardian
+A0212,Praxzuarae,Nebulon,,2025-03-31,3.8,12,61.2,Low,96.1,78.8,97.7,
+A0105,Cryiona,Aquari,Floating Islands,2024-04-17,,7,58.6,High,144.7,52.9,172.2,Farmer
+A0034,Korvsolaris,Aquari,Ice Plains,2025-06-22,6.7,1,57.1,Medium,81.2,43.1,115.0,Crystal Miner
+A0079,Tordraex,Crystalian,Crystal Forest,2025-01-12,3.7,8,92.4,Low,131.8,37.1,16.4,Research Scientist
+A0083,Talora,Crystalian,Crystal Forest,2025-08-06,1.6,2,99.2,Low,156.6,,24.9,Planetary Guardian
+A0470,Vyrrynexus,Aquari,Ice Plains,2024-06-17,2.3,7,72.6,Low,,24.4,121.9,
+A0292,Solnorix,Luminar,Floating Islands,2025-06-15,3.2,10,90.0,High,145.7,79.9,129.8,Crystal Miner
+A0001,Myrzuionis,Crystalian,Lava Basin,2025-03-25,7.7,7 antennae,62.8,Medium,111.3,47.3,25.4,Crystal Miner
+A0210,Varphiara,Luminar,Floating Islands,2024-03-24,4.0,4,70.7,High,146.5,50.6,123.2,Farmer
+A0012,Zoriona,Aquari,Ice Plains,2024-02-12,3.9,4,57.4,High,116.1,37.7,96.4,Farmer
+A0229,Eldul,Gravitar,Lava Basin,2025-10-27,2.7,1,31.2,Low,67.1,34.9,0.0,Farmer
+A0448,Praxsoluun,Gravitar,Northern Crater,2025-05-05,4.5,3,23.8,Low,47.9,39.2,59.2,Merchant
+A0023,Vyrvoion,Luminar,Northern Crater,2024-05-03,-5.0,8,67.1,High,135.5,65.9,112.7,Farmer
+A0493,Vexraex,Luminar,Crystal Forest,2025-05-02,4.2,5,66.9,High,119.2,40.0,72.4,Research Scientist
+A0078,Zorix,Luminar,Northern Crater,2024-01-10,4.6,7,57.1,High,135.8,,86.5,Explorer
+A0094,Ophari,Nebulon,Float. Islands,2024-02-29,5.7,10,62.9,Medium,91.2,66.4,100.9,
+A0375,Lumaris,Luminar,Crystal Forest,2025-11-30,,8,83.3,High,170.7,74.0,93.3,Research Scientist
+A0156,Sylaris,Luminar,Crystal Forest,2025-06-22,,5,85.3,Low,148.7,51.1,88.4,Merchant
+A0133,Ophthalion,Luminar ,Floating Islands,2025-11-30,4.0,10,77.0,High,149.5,58.9,123.0,Crystal Miner
+A0019,Korvdraeon,Crystalian,Northern Crater,2025-02-10,7.2,8,75.2,High,163.1,71.5,41.3,Farmer
+A0339,Sylzoralon,Crystalian,Floating Islands,2025-09-19,5.3,3,62.6,Low,85.3,34.8,96.4,Crystal Miner
+A0155,Korvmirorin,Aquari,Ice Plains,2025-03-03,4.3,8,101.0,High,141.5,59.6,103.5,Explorer
+A0411,Jaxnorex,Crystalian,Floating Islands,2025-12-15,3.6,5,80.6,Medium,111.3,50.2,100.6,
+A0091,Noxlyius,Luminar,Crystal Forest,2025-10-25,7.7,9,70.8,Medium,116.9,46.8,101.4,Farmer
+A0040,Kelarae,Crystalian,Crystal Forest,2024-04-15,8.6,4,90.2,Medium,139.2,69.7,69 centimeters,
+A0495,Noxdraara,Crystalian,Crystal Forest,2025-09-17,6.2,6,,Medium,132.3,51.6,53.5,Explorer
+A0047,Thalvoorix,Crystalian,Crystal Forest,2024-03-30,3.0,5,91.5,High,193.1,45.5,38.7, Research Scientist
+A0395,Zenyxar,Crystalian,Lava Basin,2024-04-14,,4,,High,132.7,35.9,40.9,Research Scientist
+A0195,Korvthalyxis,Crystalian,Crystal Forest,2025-10-17,,5,,Low,,56.8,26.5,Crystal Miner
+A0357,Korvvoax,Luminar,Crystal Forest,2025-08-13,,10,89.3,Low,108.5,65.4,88.1,Farmer
+A0279,Zephara,Nebulon,Northern Crater,2024-04-26,5.2,15,84.8,Low,126.0,76.2,89.6,Crystal Miner
+A0281,Solzoreon,Gravitar,Lava Basin,2025-01-26,,3,28.5,Medium,71.7,44.2,23.5,Explorer
+A0182,Vyrlyorin,Luminar,Crystal Forest,2024-10-29,6.8,9,86.0,Low,162.9,,88.8,Research Scientist
+A0273,Aquaionis,Gravitar,Floating Islands,2024-08-25,4.9,4,53.3,Low,63.4,35.5,42.8,Merchant
+A0440,Korvetha,Luminar,Floating Islands,2025-10-12,5.7,5,48.2, low,141.9,45.0,136.2,Explorer
+A0177,Cryraeth,Nebulon,Crystal Forest,2025-03-17,6.7,11,90.5,High,162.9,84.8,62.5,Merchant
+A0070,Varuun,Aquari,Floating Islands,2025-07-12,5.1,3,48.7,High,113.0,59.1,168.2,Research Scientist
+A0458,Eldaris,Crystalian,Crystal Forest,2025-01-02,3.7,5,93.7,Medium,131.0,24.3,34.1,Explorer
+A0298,Lumuron,Luminar,Floating Islands,2024-09-10,9.2,8,70.1,High,137.4,56.7,140.1,
+A0417,Vyrquaorax,Luminar,Crystal Forest,2025-08-03,8.0,4,86.5,High,148.4,,72.5,Crystal Miner
+A0102,Talrynetha,Nebulon,Floating Islands,2025-11-17,2.9,13,62.2,Medium,95.7,83.6,104.9,Crop Farmer
+A0488,Graxzenorin,Luminar,Floating Islands,2025-06-05,7.4,10,74.8,Medium,122.6,61.8,141.0,Explorer
+A0205,Lumshauron,Nebulon,Crystal Forest,2024-12-29,5.5,9,86.5,Low,118.5,76.1,75.3,Planetary Guardian
+A0300,Vexthaliona,Luminar,Northern Crater,2024-02-29,6.2,5,56.7,High,148.0,50.9,999.0,Merchant
+A0326,Aquamonix,Nebulon,Northern Crater,2025-09-06,2.4,13,53.9,High,150.3,81.6,74.7,Research Scientist
+A0500,Rynarax,Aquari,Ice Plains,2025-03-10,1.3,6,57.4,Medium,104.9,60.1,95.9,Farmer
+A0193,Zorlyexus,Aquari,Ice Plains,2025-10-09,9.8,1,58.6,Low,94.8,58.7,110.6,Research Scientist
+A0315,Talis,Gravitar,Northern Crater,2024-04-08,1.0,3,50.3,Medium,91.9,,34.4,Planetary Guardian
+A0183,Graxvoax,aquari,Floating Islands,2024-11-06,8.2,3,78.3,High,148.8,59.0,173.3,Explorer
+A0398,Zydrayxar,Crystalian,Northern Crater,2024-04-29,4.8,7,75.5,Medium,137.0,43.5,49.8,Research Scientist
+A0348,Vyralon,Luminar,Northern Crater,2025-13-01,6.0,7,75.0,High,160.6,,79.5,Planetary Guardian
+A0138,Vexsoleth,Nebulon,Floating Islands,2024-04-11,10.4,11,68.6,Medium,117.1,94.1,134.1,Planetary Guardian
+A0487,Solvoionis,Luminar,Floating Islands,2025-06-06,4.2,6,64.0,High,127.9,51.5,111.1,Planetary Guardian
+A0452,Quixquaeron,Nebulon,Northern Crater,2024-12-17,3.9,10,59.6,High,130.1,66.5,99.7,Explorer
+A0412,Drakari,Aquari,Floating Islands,2025-12-26,2.9,7,63.3,Low,79.9,59.7,155.3,Crystal Miner
+A0439,Varos,Nebulon,Crystal Forest,,1.5,9,63.4,High,136.0,72.8,49.7,Res. Scientist
+A0352,Kryshaith,Gravitar,Ice Plains,2025-01-20,7.3,6,-1.0,High,100.4,47.3,8.4,Explorer
+A0087,Vyrvoarae,Nebulon,Crystal Forest,2024-06-02,3.0,12,67.8,Low,101.7,75.5,74.3,Explorer
+A0076,Fynora,Nebulon,Northern Crater,2024-01-26,5.6,12,70.3,Low,91.7,83.8,84.1,Planetary Guardian
+A0462,Vexraul,Nebulon,Ice Plains,2025-10-09,1.0,11,49.9,Low,59.5,68.2,49.4,Explorer
+A0016,Fynionis,Luminar,Crystal Forest, ,6.1,8,67.5,Medium,93.7,52.9,72.4,Farmer
+A0275,Aquazeneth,Nebulon,Northern Crater,2025-03-11,6.6,13,43.1,High,110.4,,108.0,Planetary Guardian
+A0463,Solzeneron,Nebulon,Floating Islands,2024-12-25,5.5,9,52.3,High,133.2,97.5,114.2,Crystal Miner
+A0392,Voreron,Crystalian,Northern Crater,2025-07-07,4.1,5,74.0,Medium,108.1,54.2,45.5,Crystal Miner
+A0020,Torsolos,Luminar,Crystal Forest,2025-09-10,6.1,8,90.5,High,174.0,55.2,86.1,Crystal Miner
+A0334,Kryzeniona,Luminar,Crystal Forest,,8.9,4,64.2,High,121.4,47.1,112.0,Farmer
+A0337,Astrorix,Gravitar,Northern Crater,2024-03-03,2.7,6,66.8,Low,104.7,50.2,48.3,Crystal Miner
+A0057,Rynlyorix,Luminar,Crystal Forest,2025-08-05,3.4,4,78.9,High,182.0,,46.4,Merchant
+A0445,Zymiretha,Gravitar,Lava B.,2025-05-13,3.7,1,57.0,Medium,108.6,24.6,19.0,Farmer
+A0499,Fynalis,Aquari,Northern Crater,2024-10-14,4.4,6,,Medium,,41.6,120.2,Planetary Guardian
+A0238,Opheon,Luminar,Ice Plains,2024-11-11,2.4,8,,Medium,,59.2,88.8,Planetary Guardian
+A0336,Orbaris,Luminar,Floating Islands,2025-11-20,4.0,5,59.5,Medium,116.0,37.5,128.3,Explorer
+A0384,Quixyx,Gravitar,Floating Islands,,5.5,2,44.2,Low,64.0,34.1,52 centimeters,Research Scientist
+A0484,Zyvekionis,Nebulon,Crystal Forest,,2.7,10,73.3,Medium,142.2,69.2,84.4,Crystal Miner
+A0430,Xanora,Luminar,Crystal Forest,2025-02-11,4.8,9,94.2,High,172.5,39.1,124.1,Farmer
+A0149,Cryveketh,Luminar,Lava Basin,2024-03-10,5.9,5,47.2,Low,65.2,,50.5,Farmer
+A0026,Orbalon,Gravitar,Lava Basin,2024-02-20,7.3,2,57.5,High,125.0,51.2,10.4,Planetary Guardian
+A0256,Vorrynari,Nebulon,Northern Crater,2025-06-09,5.3,11,56.3,Low,85.1,79.6,70.6,Planetary Guardian
+A0043,Vyrzenorix,Luminar,Crystal Forest,2025-10-19,6.0,9,65.9,Low,106.6,,84.1,Research Scientist
+A0393,Zoreon,Crystalian,Northern Crater,2025-01-31,9.7,2,72.1,Medium,108.5,,44.9,Crystal Miner
+A0196,Velveketh,Crystalian,Lava Basin,2025-06-25,6.8,8,64.0,Medium,110.4,51.8,44.2,Farm Worker
+A0282,Zephxelix,Crystalian,Floating Islands,2025-06-20,6.4,7,78.5,Low,90.9,66.8,59.5,Merchant
+A0127,Lumzuith,Gravitar,Lava Basin,2025-07-07,4.2,2,45.6,Low,65.8,26.0,0.0,Crystal Miner
+A0496,Fynquaeen,Crystalian,Crystal Forest,2025-02-17,,7,99.4,Medium,157.7,75.5,57.0,Explorer
+A0032,Torarae,Luminar,Northern Crater,2025-07-17,7.2,7,83.3,High,154.8,50.4,134.2,Explorer
+A0114,Ryntriiona,Gravitar,Floating Islands,2025-03-30,8.3,6,41.0,Medium,77.0,53.0,41.4,Explorer
+A0353,Ophari,Nebulon,Floating Islands,2025-07-27,5.8,10,50.4,Medium,109.2,79.6,112.0,Planetary Guardian
+A0211,Myrryneth,Nebulon,Northern Crater,2025-02-09,7.9,13,67.8,Medium,120.6,100.0,74.4,Planetary Guardian
+A0308,Korvlyorax,Crystalian,Northern Crater,2025-01-16,4.5,4,83.2,High,151.4,33.0,34.3,Merchant
+A0058,Quixiona,Luminar,Crystal Forest,2024-11-07,4.7,5,75.5,High,132.4,44.9,98.9,Planetary Guardian
+A0363,Fynon,Crystalian,Floating Islands,2024-01-13,4.7,7,65.6,High,147.4,54.4,101.7,Explorer
+A0025,Myraris,Crystalian,Northern Crater,2025-12-15,7.4,6,59.5,High,116.7,62.6,45.2,Farmer
+A0018,Celraul,Nebulon,Northern Crater,2024-01-21,5.3,14,69.4,High,135.9,98.9,81.1,Explorer
+A0250,Eldxelorix,Gravitar,Lava Basin,2024-08-03,5.0,5,34.5,Medium,96.3,41.7,5.2,Explorer
+A0067,Vordraetha,Luminar,Crystal Forest,2025-01-10,3.2,6,,Low,106.0,57.4,56.1,Research Scientist
+A0249,Velsolion,Aquari,Northern Crater,2024-06-06,6.0 centuries,2,75.1,Low,83.3,32.0,133.0,Farmer
+A0156,Sylaris,Luminar,Crystal Forest,2025-06-22,,5,85.3,Low,148.7,51.1,88.4,Merchant
+A0095,Graxthalor,Gravitar,Northern Crater,2024-06-15,6.8,3,41.1,Low,48.9,47.2,32.2,Research Scientist
+A0246,Drakkayxis,Aquari,Northern Crater,2025-11-08,5.6,8,73.6,High,130.0,58.5,147.7,Explorer
+A0433,Kryrynara,Nebulon,Northern Crater,2024-01-17,3.6,10,51.6,High,116.6,76.0,104.8,
+A0024,Praxzueon,Crystalian,Northern Crater,2025-02-02,3.7,3,69.4,Medium,131.7,53.3,52.2,Farmer
+A0318,Ophzenyxis,Luminar,Crystal Forest,2024-06-04,4.0,7,97.0,High,182.2,45.9,97.3,
+A0480,Drakeon,Nebulon,Ice Plains,2025-01-08,6.2,15,70.1,High,145.3,100.0,76.0,Planetary Guardian
+A0324,Myrzueth,Luminar, ,2025-08-31,4.9,4,78.7,High,162.5,52.7,85.9,Research Scientist
+A0006,Zenius,Luminar,Crystal Forest,2025-10-26,5.7,6,87.9,Medium,147.9,54.1,98.4,Explorer
+A0117,Xanthalos,Gravitar,Floating Islands,2025-10-11,4.2,5,57.9,Low,50.8,26.3,42.9,Crystal Miner
+A0046,Korvtriyth,Nebulon,Lava Basin,2025-10-05,6.0,9,56.8,Medium,77.6,90.1,-1.0,Explorer
+A0395,Zenyxar,Crystalian,Lava Basin,2024-04-14,,4,,High,132.7,35.9,40.9,Research Scientist
+A0017,Lyrphiius,Crystalian,Crystal Forest,2025-03-02,2.1,7,62.8,Medium,110.7,53.3,14.4,
+A0471,Drakzuorin,Luminar,Floating Islands,2024-08-04,8.4,8,46.4,Medium,71.3,67.9,118.0,Explorer
+A0362,Nyxora,Nebulon,,2024-03-05,,11,66.4,Medium,103.2,100.0,83.1,Research Scientist
+A0004,Zephnoruun,Nebulon,Northern Crater,2024-08-08,9.0,9,61.9,High,118.4,90.4,82.7,Merchant
+A0361,Zephthallor,Crystalian,Ice Plains,2025-02-26,7.3,5,71.9,Medium,122.7,74.6,25.6,Farmer
+A0421,Zytrialon,Gravitar,Northern Crater,2024-04-10,2.7,6,40.2,Low,68.1,40.9,16.9,Research Scientist
+A0061,Xylion,Crystalian,Ice Plains,not recorded,5.7,9,89.0,Low,99.4,69.7,55.9,Farmer
+A0111,Graxraalon,Luminar,Crystal Forest,2025-03-07,2.6,9,84.9,High,173.3,51.3,114.7,Merchant
+A0323,Ophvoix,Nebulon,Floating Islands,2025-02-03,7.5,10,52.4,High,112.4,90.0,101.4,Farmer
+A0267,Astrsoleth,Nebulon,Northern Crater,2024-09-09,4.0,6,999.0,Medium,94.2,83.7,64.1,Planetary Guardian
+A0030,Praxetha,Luminar,Ice Plains,2024-11-29,2.4,7,55.2,High,124.9,40.6,103.6,Merchant
+A0481,Torthaleon,Nebulon,Floating Islands,2025-11-23,4.1,10,54.0,Medium,83.1,71.0,118.4,Merchant
+A0174,Zylor,Luminar,Floating Islands,2024-04-25,2.6,4,56.9,Medium,89.5,45.1,102.9,Research Scientist
+A0027,Talith,Luminar,Floating Islands,2024-11-19,6.1,7,79.0,Low,96.6,58.5,124.9,Farmer
+A0008,Myrek,Gravitar,Ice Plains,2024-05-12,8.5,5,37.7,Medium,83.1,53.8,14.4,Merchant
+A0461,Zephyxar,Luminar,Crystal Forest,2024-08-10,6.3,10,56.4,High,141.7,,87.6,Planetary Guardian
+A0109,Celxeluron,Luminar,Floating Islands,"June 21, 2024",1.2,4,74.3,High,140.9,43.8,118.8,Explorer
+A0038,Velshaari,Luminar,Crystal Forest,2025-10-09,5.7,6,63.3,High,150.3,35.4,67.2,Merchant
+A0158,Vorxelyx,Gravitar,Lava Basin,2024-05-28,7.4,2,38.5,Low,61.7,38.8,14.8,Farmer
+A0475,Myrvoorin,Nebulon,Crystal Forest,2025-01-04,6.1,13,65.5,Medium,94.8,100.0,59.6,Research Scientist
+A0119,Xanaris,Gravitar,Ice Plains,2024-03-17,7.4,3,46.6,Medium,120.5,44.9,43 cm,Research Scientist
+A0115,Zorara,Nebulon,Northern Crater,2024-06-08,7.3,11,74.5,Medium,115.4,100.0,84.4,Explorer
+A0176,Noxphialon,Luminar,Northern Crater,2025-10-23,4.5,4,66.2,High,141.5,57.7,88.4,Explorer
+A0266,Orburon,Nebulon,Ice Plains,2025-06-20,6.8,6,60.2,Medium,85.4,80.2,77.8,Crystal Miner
+A0415,Xanmirorix,Nebulon,Ice Plains,2024-06-21,4.3,13,65.2,High,152.8,80.4,95.9,Explorer
+A0145,Xanlyith,Luminar,Crystal Forest,2025-11-06,2.4,7,75.6,High,130.3,72.9,92.6,Research Scientist
+A0375,Lumaris,Luminar,Crystal Forest,2025-11-30,,8,83.3,High,170.7,74.0,93.3,Research Scientist
+A0441,Sylphios,Luminar,Crystal Forest,2024/10/06,3.0,6,81.2,High,149.4,52.3,99.6,Farmer
+A0204,Rynmirorax,Gravitar,Floating Islands,2025/07/18,4.4,2,60.7,Medium,101.1,17.6,79.8,Research Scientist
+A0223,Zoralon,Luminar,Crystal Forest,2024-12-26,3.6,9,83.0,Medium,124.5,56.6,57.1,Planetary Guardian
+A0226,Kelyth,Luminar,Ice Plains,2024-06-28,5.4,8,50.7,High,119.9,73.5,109.0,Explorer
+A0453,Varrynius,Crystalian,Crystal Forest,2025-06-03,1.0,4,90.7,Medium,166.4,25.6,39.9,Farmer
+A0142,Talsolul,Luminar,,2025-09-12,6.7,9,93.2,Medium,135.0,82.1,63.5,Research Scientist
+A0371,Graxkaix,Luminar,Crystal Forest,2025-11-02,5.0,7,82.2,High,140.0,36.2,86.3,Farmer
+A0068,Celzorarax,Gravitar,Lava Basin,2025-11-15,7.0,5,,Medium,83.8,37.2,0.0,Crystal Miner
+A0219,Zephxeletha,Nebulon,Crystal Forest,2025-04-25,3.7,16,67.6,High,120.3,100.0,58.8,Explorer
+A0169,Lyrzuara,Luminar,Crystal Forest,2024-06-20,5.6,4,69.4,High,128.6,54.3,91.5,Crystal Miner
+A0074,Zephsolnax,Gravitar,Lava Basin,2025-12-26,,2,34.8,Low,48.8,16.5,1.1,Crystal Miner
+A0382,Nebmireon,nebulon,Northern Crater,2025-12-08,4.0,13,71.3,Medium,114.1,95.9,67.3,Planetary Guardian
+A0221,Veluron,Nebulon ,Northern Crater,2024-04-23,8.1,11,48.6,Medium,92.4,100.0,79.0,Farmer
+A0194,Sylix,Nebulon,Floating Islands,2025-05-29,5.4,13,67.9,Low,75.9,74.0,115.1,Explorer
+A0272,Eldxeletha,Gravitar,Ice Plains,2024-12-01,8.4,4,44.2,Low,65.1,29.2,7.9,Farmer
+A0110,Solax,Luminar,Floating Islands,2025-10-23,4.2,7,42.7,High,99.1,60.6,119.8,Crystal Miner
+A0358,Fynaris,Nebulon,Ice Plains,2025-10-22,4.4,8,77.0,Medium,102.0,85.5,66.4,Planetary Guardian
+A0146,Celexus,Luminar,Ice Plains,2024-03-13,5.6,4,71.8,High,128.9,52.1,104.3,Farmer
+A0093,Korlyuron,Gravitar,Lava Basin,2025-09-03,4.2,1,36.2,Low,51.5,46.9,13.9,Explorer
+A0153,Talax,Luminar,Floating Islands,2025-10-03,5.1,8,55.1,High,125.3,58.9,112.7,Explorer
+A0228,Rynshaexus,Crystalian,Ice Plains,2025-02-10,2.1,3,86.6,Low,108.9,33.7,53.8,Research Scientist
+A0239,Zentriith,Nebulon,Lava Basin,,4 centuries,13,51.8,Medium,66.1,100.0,74.9,Farmer
+A0084,Aquarynara,Luminar,Crystal Forest,2024-05-31,4.1,4,77.0,Low,138.9,59.2,81.2,Farmer
+A0254,Fynzoruun,Crystalian,,2024-03-07,6.6,6,89.1,Medium,164.4,44.2,32.7,Crystal Miner
+A0166,Noxtriorax,Gravitar,Lava Basin,2024-12-07,3.6,4,26.2,Low,36.3,34.2,24.7,Merchant
+A0164,Torzulor,Nebulon,Floating Islands,2024-02-27,3.0,10,54.2,Low,87.2,74.2,116.7,Merchant
+A0200,Korrynionis,Gravitar,Lava Basin,2025-09-18,4.0,6,37.5,Low,16.6,58.2,7.5,Crystal Miner
+A0341,Eldlyius,Crystalian,Crystal Forest,2025-07-27,8.4,10,87.2,Medium,185.5,41.1,23.6,Research Scientist
+A0075,Quixex,Nebulon,Northern Crater,2024-08-07,5.7,7,54.7,High,142.4,78.6,109.3,Farmer
+A0313,Jaxralor,Luminar,Crystal Forest,2025-04-01,5.9,5,86.0,Low,108.6,56.4,97.5,Explorer
+A0245,Graxryneth,Luminar,Crystal Forest,2024-02-11,2.8,3,61.4,High,105.2,48.7,86.8,Merchant
+A0478,Zephnax,Nebulon,Crystal Forest,2025-10-13,4.3,10,67.8,High,147.9,87.0,52.6,Merchant
+A0120,Thalnoror,Nebulon,Northern Crater,2025-05-23,5.3,8,48.0,Medium,78.9,93.5,80.5,Crystal Miner
+A0457,Solzuor,Luminar,Floating Islands,2025-09-14,5.0,7,100.1,Medium,142.7,73.0,156.2,Explorer
+A0413,Thalexus,Aquari,Ice Plains,2024-07-18,1.0,3,50.9,Medium,62.6,,133.9,Research Scientist
+A0263,Orbyx,Luminar,Crystal Forest,2025-04-10,4.5,5,83.1,High,149.5,60.4,101.2,Research Scientist
+A0359,Xylnoretha,Aquari,Ice Plains,,2.9,1,52.3,Medium,74.7,45.6,123.5,Research Scientist
+A0406,Lyraris,Gravitar,Northern Crater,2024-04-06,4.3,3,57.6,Low,89.0,33.5,20.8,Planetary Guardian
+A0306,Celsolis,Aquari,ICE PLAINS,11/24/2024,4.4,2,58.1,Low,80.8,48.6,119.3,Farmer
+A0423,Sylmiruun,Luminar,Ice Plains,2024-07-18,4.3,8,72.1,High,159.5,53.4,71.2,Crystal Miner
+A0332,Korvraeron,Gravitar,Lava Basin,2025-02-23,4.6,3,37.9,Low,28.8,31.5,16.2,Merchant
+A0389,Vorraalis,Gravitar,Floating Islands,2025-02-25,,1,49.1,Low,83.9,47.8,60.4,Farmer
+A0278,Thalmonalis,Nebulon,Northern Crater,18-Jul-2025,4.5,11,53.0,Medium,112.6,83.7,94.7,Farmer
+A0037,Jaxquaora,Crystalian,Northern Crater,2024-10-17,2.6,4,84.0,Low,139.9,29.9,53.7,Research Scientist
+A0197,Velexus,Nebulon,Floating Islands,2024-08-24,3.7,11,54.2,High,144.9,88.2,89.0,Farmer
+A0140,Zyeron,Aquari,Lava Basin,2024-10-14,6.3,8,43.9,Medium,75.9,84.9,133.4,Explorer
+A0370,Vellyyxis,Luminar,NORTHERN CRATER,2024-06-21,7.0,10,72.1,Medium,112.0,,75.9,Research Scientist
+A0474,Nyxiona,Gravitar,Lava Basin,2024-07-08,3.3,3,39.0,Low,67.0,33.1,41.6,Planetary Guardian
+A0381,Graxix,Luminar,Crystal F.,2025-05-24,8.3,6,87.6,High,166.0,54.3,82.4,Crystal Miner
+A0290,Nebis,Nebulon,Northern Crater,2025-10-14,6.0,11,75.1,Medium,117.9,85.0,70.2,Crystal Miner
+A0060,Myreth,Crystalian,Lava Basin,2025-03-20,0.0,7,75.9,Medium,141.4,51.4,37.1,Explorer
+A0112,Cryuron,Luminar,Lava Basin,2025-10-16,1.0,7,46.3,High,105.1,44.5,69.2,Research Scientist
+A0090,Lyrvoorax,Crystalian,Crystal Forest,2024-02-19,3.8,3,79.4,Medium,133.0,31.6,23.3,Research Scientist
+A0297,Noxzorora,Gravitar,Northern Crater,2024-02-12,5.8,2,44.8,Medium,99.2,44.2,11.5,Crystal Miner
+A0007,Ophvekax,Luminar,Northern Crater,2024-01-12,8.3,8,75.0,Low,83.3,77.6,73.9,Explorer
+A0366,Zenorin,Crystalian,Floating Islands,2025-05-07,4.3,4,58.7,Medium,103.9,55.7,75.4,Crystal Miner
+A0350,Praxraaris,Nebulon,Ice Plains,2025-05-24,3.7,15,76.5,Low,104.1,100.0,41.0,Crystal Miner
+A0343,Zenmoneen,Luminar,Crystal Forest,2025-06-02,4.7,3,82.2,High,147.5,41.7,87.3,Farmer
+A0159,Velul,Luminar,Floating Islands,2024-08-17,5.2,6,61.7,High,177.7,56.5,139.7,Farmer
+A0151,Nebmonius,Aquari,Crystal Forest,,5.8,7,91.8,High,167.8,78.4,1000.0,Merchant
+A0178,Noxvoix,Crystalian,Crystal Forest,2025-07-01,4.9,6,100.0,Medium,157.2,57.4,46.6,Crystal Miner
+A0400,Jaxuron,Gravitar,Floating Islands,unknown,3.6,6,160.0,Low,44.5,43.8,53.1,Merchant
+A0185,Zenion,Luminar,Northern Crater,2025-09-09,4.9,4,68.8,High,132.7,50.4,106.4,Crystal Miner
+A0287,Zephvoyth,Crystalian,Floating Islands,2024-05-07,4.6,4,62.3,High,146.9,45.1,87.8,Crystal Miner
+A0011,Vyrkaara,Luminar,Floating Islands,2024-10-26,2.3,7,65.2,Medium,135.6,55.1,119.9,Research Scientist
+A0387,Celquaalon,Luminar,Floating Islands,2024-08-14,4.5,7,70.6,High,150.6,61.2,126.2,Merchant
+A0104,Graxxelis,Nebulon,Crystal Forest,2025-04-27,5.0,8,75.7,Medium,126.4,54.5,53.2,Farmer
+A0082,Zephax,Nebulon,N. Crater,2025-11-12,4.5,12,43.4,High,69.9,96.5,50.1,Crystal Miner
+A0039,Nebzenyx,Nebulon,Ice Plains,2024-05-23,4.2,11,55.0,Medium,102.3,93.9,72.3,Crystal Miner
+A0319,Zymirlor,Luminar,crystal forest,2024-07-08,2.8,7,100.0,Medium,135.2,43.0,92cm,Crystal Miner
+A0199,Tortriith,Gravitar,Lava Basin,2024-12-13,5.1,4,47.0,Medium,128.0,50.4,14.8,Merchant
+A0262,Fynul,Aquari,Floating Islands,2024-05-09,1.9,4,62.5,High,95.6,10.0,-5.0,Merchant
+A0147,Velnoron,Nebulon,Ice Plains,2025-10-09,3.2,7,52.2,Low,74.6,79.2,74.9,Merchant
+A0399,Vartrialon,Gravitar,Crystal Forest,2025-01-27,8.0,4,64.4,Low,104.2,33.9,46.6,Explorer
+A0148,Zymonon,Nebulon,Northern Crater,2024-12-18,3.6,13,56.6,Medium,104.2,88.5,114.2,Explorer
+A0311,Jaxeron,Crystalian,Northern Crater,2024-02-25,1.3,2,74.7,high,66.1,44.5,54.7, Crystal Miner
+A0291,Velkaalon,Luminar,Crystal Forest,2025-06-26,5.4,4,77.5,High,151.4,46.2,103.0,Planetary Guardian
+A0124,Eldeth,Luminar,Floating Islands,2024-09-19,4.9,6,,medium,,48.9,114.3,Merchant
+A0374,Vorarae,Nebulon,Lava Basin,2025-05-11,4.5,11,64.3,Medium,123.4,100.0,47.3,Planetary Guardian
+A0097,Sylrynorix,Nebulon,Northern Crater,2024-05-25,1.2,11,64.9,High,110.1,72.5,67.6,Research Scientist
+A0144,Korexus,Crystalian,Crystal Forest,2024-12-18,5.8,9,79.2,Medium,94.8,54.9,12.9,Explorer
+A0240,Cryora,Luminar,Crystal Forest,2024-08-31,3.4,5,92.1,High,178.3,45.0,97.9,
+A0479,Tordraor,Aquari,Ice Plains,2025-05-02,4.4,5,58.5,Medium,111.8,49.5,123.0,Merchant
+A0098,Koraris,Crystalian,Crystal Forest,"March 29, 2025",4.7,6,85.3,HIGH,98.8,38.5,50.2,Crystal Miner
+A0355,Quixsoleth,Luminar,Crystal Forest,2025-02-08,1.9,5,88.7,High,183.8,39.6,76.7,Planetary Guardian
+A0123,Zenxeleen,Crystalian,Crystal Forest,2024-11-15,8.4,4,85.0,Medium,158.2,61.4,60.9,Farmer
+A0184,Ophvekith,Gravitar,Lava Basin,2024-07-26,4.6,3,33.5,Medium,69.7,47.9,15.4,Farmer
+A0203,Velith,Luminar,Crystal Forest,2025-05-31,1.9,6,74.6,High,177.2,52.8,110.0,Crystal Miner
+A0247,Orbquaiona,Crystalian,Crystal Forest,2025-08-16,4.9,5,84.3,Medium,148.0,54.2,49.0,Crystal Miner
+A0422,Ophix,Gravitar,Lava Basin,2024-01-08,5.7,3,29.1,Low,,,27.2,Explorer
+A0303,Nyxraetha,Nebulon,Ice Plains,2024-10-13,4.1,8,59.4,Medium,65.7,73.2,0.0,Crystal Miner
+A0356,Zysolara,Nebulon,Floating Islands,2024-09-02,7.8,10,59.7,Medium,113.7,79.3,122.8,Farmer
+A0305,Korvquaarae,Nebulon,Lava Basin,2025-04-11,5.3,9,55.5,Medium,129.1,71.8,63.4,Merchant
+A0435,Kryvekionis,Luminar,Crystal Forest,2024-05-27,5.2,9,78.5,Low,99.4,62.6,115.0,Crystal Miner
+A0288,Zysolalon,Nebulon,Lava Basin,2025-08-30,6.7,9,53.8,High,124.4,99.8,47.7,Planetary Guardian
+A0126,Xylari,Crystalian,Crystal Forest,2025-10-19,2.1,4,94.1,Medium,155.7,49.3,37.5,Explorer
+A0455,Nyxxeluun,Luminar,Floating Islands,2024-05-17,6.4,5,67.6,Medium,81.0,47.7,171.5,Crystal Miner
+A0224,Zephith,Crystalian,Ice Plains,2025-02-30,2.6,5,86.2,Medium,144.6,38.6,35.0,Farmer
+A0425,Zyvoeth,Luminar,Floating Islands,2024-03-27,3.8,6,75.5,High,149.6,55.0,126.0,Farmer
+A0220,Lumarae,Gravitar,Ice Plains,2025-10-24,4.7,5,57.9,Low,86.0,36.9,20.7,Research Scientist
+A0130,Torek,Nebulon,Floating Islands,2024-06-15,7.1,16,54.5,High,123.5,83.9,121.4,Research Scientist
+A0427,Praxius,Crystalian,,2025-01-19,5.2,6,83.2,Low,91.9,46.5,31.5,Crystal Miner
+A0403,Talvekaris,Nebulon,floating islands,2025-07-25,7.7,12,60.8,High,125.8,100.0,130.5,Crystal Miner
+A0333,Lumzuetha,Luminar,Crystal F.,2024-05-03,5.7,9,74.8,High,153.5,72.2,106 centimeters,Research Scientist
+A0383,Jaxsoleth,Nebulon,Crystal Forest,2025-06-29,4.4,10,65.9,Medium,94.8,87.9,65.7,Farmer
+A0408,Vexrynyx,Luminar,Crystal Forest,2024-08-29,7.2,12 antennae,81.6,High,176.4,,90.2,Merchant
+A0477,Nyxmonaris,Luminar,Floating Islands,2025-11-06,6.0,7,61.1,High,125.4,53.5,125.1,Trader
+A0299,Korzoror,Nebulon,Northern Crater,2024-05-09,1.5,8,58.7,High,145.0,,87.1,Explorer
+A0295,Cryzoraris,Luminar,Crystal Forest,,5.3,6,65.9,High,116.4,48.4,90.1,Merchant
+A0372,Rynlyaris,Luminar,Crystal Forest,2024-06-12,,1,69.9,High,139.6,28.9,96.5,Crystal Miner
+A0391,Graxxelyxar,Aquari,Ice Plains,2024-01-21,6.3,4,48.3,High,114.0,55.0,102.2,Research Scientist
+A0113,Rynzenius,Aquari,Ice Plains,2025-02-22,6.1,7,54.9,Medium,94.4,65.8,111.2,Research Scientist
+A0180,Lumnoryxis,Luminar,Ice Pl.,2025-04-21,3.5,5,,Low,107.6,38.3,105.8,Explorer
+A0312,Kelvekyx,Luminar,Ice Plains,2025-04-07,7.1,3,54.5,Medium,94.8,33.4,87.2,Farmer
+A0437,Myrraorin,Luminar,Crystal Forest,,5.7,5,67.3,High,128.4,47.6,100.1,Research Scientist
+A0335,Noxxelora,Luminar,Floating Islands,2024-08-18,4.9,1,64.4,High,126.7,31.5,144.6,Farmer
+A0490,Zentriorix,Gravitar,Ice Plains,,3.6,9,54.8,Medium,89.6,41.5,31.0,Planetary Guardian
+A0365,Lumiona,Aquari,Ice Plains,2024-08-29,4.2,5,73.7,Medium,127.0,66.8,124.2,Merchant
+A0234,Lumvekiona,Crystalian,Floating Islands,2025-02-22,9.2 centuries,7,83.5,Medium,145.9,63.3,84.0,Crystal Miner
+A0447,Kelryneron,Aquari,Floating Islands,2025-07-16,7.4,5,66.4,High,150.4,59.5,151.0,Explorer
+A0165,Soleon,Luminar,Crystal Forest,12-Jan-2025,3.6,3,74.0,Medium,104.9,,117.9,Crystal Miner
+A0137,Astrora,Nebulon,Ice Plains,2024-08-05,4.3,13,57.8,Medium,91.5,97.0,86.3,Farmer
+A0198,Drakis,Gravitar,,2024-10-05,5.0,2,11.0,Medium,22.6,49.6,28.3,Farmer
+A0259,Korvmirara,Nebulon,Northern Crater,2025-02-08,6.3,9,56.7,Low,65.8,83.0,71.9,Crystal Miner
+A0233,Praxquaalis,Nebulon,Northern Crater,"December 27, 2025",3.1,11,49.9,MEDIUM,142.4,83.5,95.0,Research Scientist
+A0116,Xanzenuun,Gravitar,Northern Crater,2025-06-06,6.4,6,50.2,Low,,75.2,29.0,Explorer
+A0121,Rynarae,Gravitar,Lava Basin,2025-03-16,2.6,6,37.8,MED,58.5,50.4,11.5,Farmer
+A0354,Graxis,Luminar,Ice Plains,2025-12-31,5.9,11,48.5,High,112.9,60.3,88.3,Merchant
+A0225,Nyxtrinax,Luminar,,2025-03-24,6.0,5,58.5,High,112.7,,146.9,Planetary Guardian
+A0409,Zorvoul,Aquari,Floating Islands,2024-08-19,,4,66.7,High,128.4,61.2,180.2,
+A0342,Rynyxar,Crystalian,,2025-04-27,6.0,2,56.8,High,128.7,50.8,41.9,
+A0128,Varlor,Gravitar,Ice Plains,2025-01-08,7.1,4,43.7,Low,56.0,52.6,6.3,Planetary Guardian
+A0286,Zorphiul,Luminar,Northern Crater,,6.6,6,66.2,Medium,106.0,49.0,93.1,Explorer
+A0418,Zenphiul,Crystalian,Northern Crater,2025-02-19,4.0,2,83.1,High,164.7,31.2,77.5,Crystal Miner
+A0108,Rynyxar,Gravitar,Lava Basin,2025-09-22,5.0,3,25.4,Medium,57.7,23.8,0.0,Merchant
+A0376,Aquaquaiona,Crystalian,Crystal Forest,2025-01-29,7.9,5,98.4,High,194.7,50.0,41.2,Farmer
+A0330,Soluron,Luminar,Floating Islands,2025-01-14,1.0,4,58.3,Medium,110.7,36.2,111.1,Planetary Guardian
+A0134,Sylvoalis,Crystalian,Floating Islands,2024-10-28,5.7,5,60.2,Medium,110.0,25.9,53.2,Research Scientist
+A0369,Cryaris,Luminar,Ice Plains,2024-12-03,5.3,8,61.2,High,163.8,58.1,114.4,Crystal Miner
+A0045,Celshauron,Luminar,Floating Islands,2025-08-11,6.7,10 antennae,69.8,Low,93.3,46.9,117.2,Farmer
+A0469,Korvex,Luminar,Floating Islands,2025-09-08,3.4,8,67.2,High,173.9,37.4,113.9,Farmer
+A0066,Nebraalis,Nebulon,Ice Plains,2024-06-20,5.4,13,70.0,Medium,131.1,100.0,66.4,Merchant
+A0284,Sylxelith,Luminar,Crystal Forest,2025-08-02,7.5,6,65.0,Medium,95.8,49.9,88.8,Crystal Miner
+A0086,Sylkaex,Crystalian,Crystal Forest,2024-02-18,7.1,4,99.2,High,130.8,45.7,8.1,Planetary Guardian
+A0243,Lyrzorion,Aquari,Ice Plains,2024-08-26,4.1,7,75.2,High,160.4,56.2,124.7,Merchant
+A0187,Kryara,Gravitar,Lava Basin,2025-10-31,8.9,2,46.2,Low,52.9,64.9,3.9,Explorer
+A0426,Kryius,Nebulon,Crystal Forest,2024-02-12,4.8,12,73.1,Medium,147.2,86.4,85.5,Farmer
+A0160,Vexari,Nebulon,Ice Plains,2025-12-12,3.3,9,63.0,Medium,112.4,85.2,78.7,Crystal Miner
+A0013,Celzorius,Gravitar,Northern Crater,,6.4,5,49.4,Medium,86.6,42.8,18.1,Farmer
+A0036,Xylsolora,Gravitar,Northern Crater,2024-06-04,3.0,5,66.5,Low,99.1,40.9,29.4,Explorer
+A0029,Nyxion,Nebulon,Crystal Forest,2025-04-14,5.0,9,80.1,High,155.9,82.8,86.4,
+A0171,Varyxar,Nebulon,Floating Islands,2024-07-27,7.7,11,64.7,Medium,85.7,73.7,108.1,Explorer
+A0143,Cryphiis,Crystalian,Crystal Forest,2024-02-05,3.2,4,93.0,Medium,145.4,47.4,52.9,Explorer
+A0405,Xylnorix,Crystalian,Crystal Forest,2024-01-29,5.1,6,87.9,Low,107.7,69.0,37.0,Explorer
+A0347,Drakvoius,Nebulon,Crystal Forest,2025-03-30,5.4,8,64.4,Medium,141.5,66.7,92.9,Research Scientist
+A0222,Rynvekionis,Nebulon,Floating Islands,2025-07-31,5.3,12,64.9,Low,100.9,77.2,113.5,Crystal Miner
+A0096,Xanraalis,Crystalian,Crystal Forest,2024-07-20,4.2,4,93.2,High,164.4,47.7,30.1,
+A0052,Korvis,Gravitar,Northern Crater,2024-12-16,6.1,4,39.6,Low,75.2,45.6,21.8,Explorer
+A0241,Ophorax,Aquari,Ice Plains,2025-05-04,3.4,8,64.7,Medium,115.3,50.7,113.0,Farmer
+A0378,Opharax,Luminar,Float. Islands,2024-11-03,,7,73.1,High,152.2,62.1,142.9,Scout
+A0385,Fynrynnax,Nebulon,Northern Crater,2025-09-15,5.3,10,58.4,Low,86.2,59.4,73.3,Explorer
+A0179,Praxara,Aquari,Northern Crater,2025-03-28,3.7,10,60.3,Medium,93.5,63.8,131.2,Merchant
+A0042,Korix,Crystalian,Lava Basin,2025-10-31,5.9,4,71.2,High,143.0,,20.9,Merchant
+A0443,Praxmonari,Crystalian,Lava Basin,2024-07-29,4.5,8,81.8,Medium,123.8,,25.4,Explorer
+A0394,Solthalorix,Gravitar,Lava Basin,2025-09-16,1.0,4,36.4,Low,77.4,32.8,7.4,Explorer
+A0207,Draksolaris,Luminar,Crystal Forest,2025-09-24,3.4,8,91.9,High,173.6,51.9,81.9,Explorer
+A0283,Talmiror,Crystalian,Crystal Forest,2024-03-19,6.7,2,100.0,Medium,161.4,26.0,43.0,Explorer
+A0255,Vexlyul,Luminar,Crystal Forest,2024-01-07,6.7,3,88.5,Medium,115.9,57.4,91.9,Explorer
+A0419,Aquaarax,Nebulon,Northern Crater,2025-03-24,3.3,12,58.4,Medium,103.8,100.0,69.0,Planetary Guardian
+A0005,Varor,Luminar,Floating Islands,2024-06-02,6.9,8,51.1,Medium,108.9,55.4,130.2, Merchant
+A0257,Velkayxar,aquari,Ice Plains,2024-03-13,6.1,4,61.0,High,117.0,56.8,121.4,Research Scientist
+A0456,Zorthalnax,Crystalian,Crystal Forest,2025-07-03,3.4,6,94.8,Medium,,57.1,31.1,Farmer
+A0101,Velquayxis,Luminar,Crystal Forest,2025-08-03,5.5,5,78.0,Medium,121.2,53.5,83.4,
+A0227,Celara,Aquari,Floating Islands,2025-12-02,6.4,5,63.8,High,135.1,48.0,145.1,Planetary Guardian
+A0434,Zenxeleron,Luminar,Floating Islands,2025-10-06,7.0,2,72.5,Medium,115.3,53.6,121.2,Explorer
+A0214,Zephshaarae,Luminar,Floating Islands,2025-04-04,4.1,8,75.9,Medium,93.7,59.8,120.5,Merchant
+A0429,Celrynaris,Crystalian,Lava Basin,06-Oct-2024,4.3,6,59.1,High,126.1,57.7,12.4,Explorer
+A0172,Praxexus,Luminar,Ice Plains,2024-12-19,6.4,8,57.9,High,118.4,54.3,77.9,Farmer
+A0099,Lyrax,Luminar,Crystal Forest,2025-03-14,7.7,8,72.0,High,142.6,74.3,87.9,Merchant
+A0293,Zenmiros,Gravitar,Lava Basin,2025-10-19,2.9,0,102.0,Low,37.9,30.3,3.1,Explorer
+A0216,Zyquaorin,Luminar,Northern Crater,2025-05-14,2.8,4,59.3,High,145.9,40.9,99.2,Research Scientist
+A0062,Aquakaith,Luminar,Crystal Forest,2024-02-05,6.6,6,73.9,High,144.0,50.0,93.0,Farmer
+A0048,Eldalis,Nebulon,Northern Crater,2024-12-10,11.1,11,57.1,Medium,108.7,,102.7,Crystal Miner
+A0033,Noxvoon,Luminar,Northern Crater,2025-05-08,2.4,5,48.4,High,112.0,68.2,82.4, Research Scientist
+A0268,Praxphiius,Nebulon,Northern Crater,2024-10-15,4.0,10,41.2,Medium,,85.0,89.4,Planetary Guardian
+A0328,Ophmonon,Nebulon,Floating Islands,2024-04-10,5.9,11,60.3,Medium,88.5,85.7,118.1,Merchant
+A0201,Korvtrior,Nebulon,Ice Plains,2024-04-13,7.4,9,70.1,Medium,113.2,98.0,81.5,Merchant
+A0454,Xankaeron,Aquari,Northern Crater,2024-11-15,3.8,6,37.9,High,106.6,77.0,132.7,
+A0028,Lumnorara,Nebulon,Floating Islands,2024-05-20,4.7,8,56.2,High,,86.5,85.4,Merchant
+A0396,Thalvekorax,Aquari,Floating Islands,2024-07-10,1.5,2,79.7,Low,137.8,48.7,162.1,Trader
+A0231,Orbdrayxar,Gravitar,Lava Basin,2025-04-10,5.7,4,40.6,Medium,74.7,45.2,5.2,Farmer
+A0261,Zyvoorix,Nebulon,Floating Islands,2025-07-31,1.6,10,47.9,Medium,73.5,84.4,126.4,Research Scientist
+A0379,Orbex,Gravitar,Crystal Forest,8/13/2024,9.0,7,61.0,Low,85.4,59.9,14.1,
+A0289,Noxeon,Luminar,Floating Islands,2024-04-01,5.9,4,76.2,Medium,105.8,45.2,122.0,Crystal Miner
+A0163,Zephraith,Nebulon,Ice Plains,2025-01-15,6.0,11,56.4,High,131.3,84.5,85.5,Research Scientist
+A0432,Nebdraiona,Gravitar,Ice Plains,2025-10-25,5.1,1,66.2,High,140.0,25.4,20cm,Explorer
+A0139,Jaxmonon,Crystalian,Crystal Forest,2025-07-07,2.5,6,77.5,Medium,104.1,53.3,46.3,Planetary Guardian
+A0063,Lyrphiexus,Gravitar,Floating Islands,2024-03-24,5.9,4,61.4,Medium,104.4,39.6,84.5,
+A0136,Jaxlor,Crystalian,Crystal Forest,2025-08-02,2.5,3,86.7,Medium,151.0,40.7,56.4,Crystal Miner
+A0129,Kryaris,Luminar,Crystal Forest,2025-09-28,4.5,8,84.0,Medium,135.6,58.3,105.7,Planetary Guardian
+A0485,Kelyxis,Nebulon,Northern Crater,2024-10-14,6.0,8,46.7,Low,76.5,,66cm,Research Scientist
+A0009,Noxek,Nebulon,,2024-10-30,8.5,14,49.8,High,122.0,100.0,55.3,Research Scienist
+A0327,Lumdrais,Nebulon,Floating Islands,2025-07-05,6.0,11,75.8,Low,108.6,99.1,92.8,Crystal Miner
+A0472,Ophuun,Aquari,Northern Crater,2025-01-12,3.3,4,66.1,High,,46.0,126.3,Merchant
+A0065,Lyrlor,Luminar,Crystal Forest,2025-01-19,4.7,8,77.9,High,149.9,60.3,78.6,Planetary Guardian
+A0301,Vexeon,luminar,Floating Islands,2025-10-24,4.9,7,57.4,Low,95.7,56.0,152.0,Crystal Miner
+A0015,Nebzulor,Luminar,Crystal Forest,2025-05-12,4.6,5,66.3,High,139.0,36.4,86.9,Merchant
+A0157,Xylzorek,Nebulon,Floating Islands,2024-06-08,3.9,6,74.1,High,130.1,79.6,101.0,Miner
+A0041,Graxsolon,Luminar,Northern Crater,2025-02-23,6.9,6,62.7,Low,90.9,49.5,119.3,Explorer
+A0380,Ophyx,Luminar,Crystal Forest,2025-09-20,5.7,5,72.3,High,173.4,45.5,94.8,Explorer
+A0468,Xanraek,Gravitar,Lava Basin,2025-08-12,4.7,5,43.2,Medium,87.7,44.9,18.4, Planetary Guardian
+A0410,Quixdraalon,Luminar,Crystal Forest,2024-10-10,2.7,5,84.2,Low,102.5,46.0,88.4,Farmer
+A0217,Cryix,Crystalian,Northern Crater,2025-05-23,6.5,5,69.5,High,140.4,38.0,29.2,Crystal Miner
+A0280,Ophraetha,Gravitar,Lava Basin,2025-04-26,3.0,5,52.5,Medium,120.0,28.1,16.7,Planetary Guardian
+A0442,Zorek,Aquari,Ice Plains,2025-02-02,6.9,5,53.6,Low,59.7,75.0,100.3,Crystal Miner
+A0438,Vexkaarae,Gravitar,Northern Crater,2024-12-31,4.9,1,49.0,High,105.9,38.2,21.4,Merchant
+A0338,Quixalis,Nebulon,Lava Basin,2025-04-29,4.4,8,68.4,High,130.6,77.3,63.8,
+A0237,Solyth,Luminar,Crystal Forest,2024-12-07,2.8,7,87.5,Medium,170.4,33.4,78.0,Farmer
+A0208,Zortriara,Nebulon,Northern Crater,2024-10-12,3.9,12,54.4,Medium,87.3,70.1,78.9,Planetary Guardian
+A0213,Fynthalex,Nebulon,Ice Plains,2024-06-09,5.7,10,51.7,Low,101.1,,68.4,Crystal Miner
+A0296,Velul,Nebulon,Northern Crater,2025-11-02,3.6,12,60.9,Medium,83.6,93.6,104.3,Research Scientist
+A0465,Rynaris,Aquari,Floating Islands,2025-04-07,6.2,7,43.0,High,131.7,73.9,165.5,Farmer
+A0252,Vyrexus,Crystalian,Northern Crater,2025-04-06,4.3,9,90.1,High,165.9,69.7,55.0,Planetary Guardian
+A0497,Fynzenor,Nebulon,Northern Crater,2025-12-25,7.1,9,42.9,Low,58.0,100.0,69.9,Explorer
+A0466,Lumor,Crystalian,Crystal Forest,2025-07-14,6.4,4,100.0,Medium,201.8,49.4,38.0,Crystal Miner
+A0304,Keldraex,Nebulon ,Ice Plains,2025-05-31,4.7,16,38.0,High,102.9,92.1,42.1,Explorer
+A0351,Celora,Nebulon,Crystal Forest,2024-07-01,1.0,12,91.2,Medium,143.3,57.0,86.0,Farmer
+A0270,Syleen,Luminar,Ice Plains,2024-04-04,1.2,6,68.8,High,138.6,29.4,85cm,Research Scientist
+A0202,Praxiona,Luminar,Crystal Forest,2025-09-21,4.6,5,84.0,Medium,112.1,44.0,97.7,Crystal Miner
+A0162,Vortriara,Nebulon,Northern Crater,2024-03-07,5.9,12,71.5,Medium,119.3,100.0,84.3,Crystal Miner
+A0044,Nebvoora,Aquari,Ice Plains,2024-01-02,7.7,1,55.9,Low,90.7,39.0,103.0,Explorer
+A0218,Xankayxar,Nebulon,N. Crater,2025-10-15,5.2,10,79.4,Low,76.1,81.9,95.6,Explorer
+A0402,Xanthalorax,Aquari,Crystal Forest,2024-05-09,2.6,7,80.7,Medium,114.4,57.6,128.2,Crystal Miner
+A0191,Velvoith,Luminar,Crystal Forest,2025-10-18,3.8,8,87.4,High,134.6,67.7,106.8,Crystal Miner
+A0310,Cryrynyxis,Luminar,Crystal Forest,2024-09-09,6.3,7,71.4,High,128.5,47.4,60.7,Merchant
+A0260,Myrorax,Luminar,Lava Basin,2025-11-05,2.8,6,58.6,High,150.6,43.7,94.9,
+A0106,Quixion,Luminar,Floating Islands,2024-08-13,6.6,8,56.1,Medium,128.6,76.6,162.8,Crystal Miner
+A0054,Graxquaax,Gravitar,Lava Basin,2025-08-08,6.5,2,25.1,Low,29.2,43.3,0.0,Merchant
+A0390,Soldraari,Gravitar,Lava Basin,2025-07-07,4.6,8,37.5,Low,70.7,63.6,12 centimeters,Planetary Guardian
+A0002,Celeth,Aquari,Ice Pl.,2025-03-29,6.3,9,50.7,Low,78.5,65.4,131.0,Explorer
+A0449,Korara,Crystalian,Northern Crater,2025-03-17,7 centuries,4,72.2,Medium,116.9,49.0,28.3,Farmer
+A0491,Sollyora,Crystalian,Ice Plains,,,6,69.0,High,145.0,67.0,55.5,Res. Scientist
+A0050,Orbryneen,Luminar,Lava Basin,2025-04-03,4.4,10,62.4,Low,95.5,70.5,100.5,Crystal Miner
+A0420,Solkaara,Gravitar,Floating Islands,2024-03-27,4.6,4,43.8,Low,90.7,150.0,50.0,Farmer
+A0081,Cryari,Gravitar,Lava Basin,2025-09-28,1.5,3,33.4,Medium,67.3,57.5,8.5,Merchant
+A0206,Xanex,Luminar,Northern Crater,2024-11-16,3.2,6,62.8,High,139.6,63.3,86.9,Merchant
+A0035,Sylor,Aquari,Ice Plains,2025-10-30,5.8,5,60.8,High,139.3,63.1,157.7,Crystal Miner
+A0431,Fynshaalis,Luminar,Crystal Forest,,4.6,6,,Medium,,45.5,86.4,Planetary Gaurdian
+A0264,Vyralon,Nebulon,Northern Crater,2024-07-24,999.0,11,78.4,Low,105.8,81.3,101.0,Planetary Guardian
+A0428,Varlyyxar,Gravitar,Lava Basin,2025-09-12,4.0,2,29.1,Medium,75.3,46.2,16.2,Farmer
+A0367,Rynara,Aquari,Floating Islands,2024-07-31,2.6,3,67.4,Medium,140.4,30.1,170 cm,Merchant
+A0092,Lumius,Nebulon,Ice Plains,2025-06-14,2.7,8,50.1,High,122.8,85.3,92.9,Explorer
+A0340,Korvquaix,Luminar,Floating Islands,2025-12-03,5.1,7,53.8,High,112.3,52.2,148.0,Crystal Miner
+A0482,Varsolalon,Nebulon,Northern Crater,2025/01/12,2.1,13,55.1,Low,103.2,88.1,40.7,Crystal Miner
+A0053,Myrvoaris,Aquari,Ice Plains,,5.3,5,47.7,Medium,57.8,60.8,108.6,Farmer
+A0346,Varyx,Nebulon,Lava Basin,2025-06-09,3.2,10,,High,156.2,77.2,61.3,Planetary Guardian
+A0265,Zenith,Gravitar,Crystal Forest,2024-09-22,2.8,5,53.3,High,135.9,44.7,43.4,Crystal Miner
+A0242,Zyon,Aquari,Floating Islands,2024-01-12,2.5,5,57.8,Low,90.9,40.2,137.3,Merchant
+A0014,Crydraeen,Luminar,Ice Plains,2024-11-21,5.3,5,62.2,Low,98.6,49.6,92.2,Crystal Miner
+A0316,Fynzuexus,Nebulon,Ice Plains,2024-05-28,4.3,14,52.3,Medium,100.3,97.6,58.9,Explorer
+A0089,Nyxkaorix,Gravitar,Floating Islands,2025-08-02,4.2,4,39.4,Low,38.9,54.1,71.7,Farmer
+A0388,Talon,Luminar,Crystal Forest,2025-03-11,7.3,2,66.8,High,142.0,24.3,80.1,Crystal Miner
+A0274,Thalaris,Aquari,Lava Basin,,1.3,4,56.7,High,110.5,41.7,117.0,Crystal Miner
+A0167,Vexyxar,Crystalian,Crystal Forest,2024-05-09,4.3,1,84.6,Low,84.4,,65.8,Merchant
+A0329,Sylnoryxis,Crystalian,Ice Plains,2024-12-24,3.4,6,71.2,Medium,117.9,36.5,60.2,Explorer
+A0362,Nyxora,Nebulon,,2024-03-05,,11,66.4,Medium,103.2,100.0,83.1,Research Scientist
+A0135,Quixzornax,Aquari,Floating Islands,2025-06-14,5.5,3,61.2,Low,81.4,63.2,174.0,Exp.
+A0307,Zenzorari,Nebulon,Northern Crater,2025-10-03,2.0,12,,High,99.2,81.4,64.5,Merchant
+A0489,Xylmonlor,Aquari,Floating Islands,2024-09-29,6.0,3,55.3,Medium,98.2,54.0,174.0,P. Guardian
+A0320,Taliona,Luminar,Crystal Forest,2025-05-08,3.7,7,,Medium,,37.7,95.7,Crystal Miner
+A0244,Solthalul,Crystalian,Floating Islands,,2.7,6,81.6,Low,140.8,45.4,56.3,Merchant
+A0055,Velzenarax,Nebulon,Northern Crater,2024-02-08,1.5,12,74.6,Medium,148.4,84.4,54.2,Farmer
+A0364,Orbius,Nebulon,Lava Basin,2024-07-31,3.6,9,50.3,Medium,82.5,74.4,38.6,Explorer
+A0051,Thalvekora,Aquari,Ice Plains,2024-09-19,1.7,3,60.3,Medium,105.5,39.0,136.1,Farmer
+A0498,Velarae,Luminar,Crystal Forest,2024-06-20,5.4,9,100.0,Medium,171.6,60.5,78.8,Planetary Guardian
+A0175,Zordraax,Nebulon,Lava Basin,2024-09-20,3.6,15,60.0,Medium,75.4,89.5,66.1,Explorer
+A0446,Zyraeron,Aquari,Crystal Forest,2025-06-23,5.1,3,73.2,Medium,133.4,49.1,114.1,Crystal Miner
+A0190,Zyzuul,Luminar,Crystal Forest,2024-01-12,4.3,5,63.3,Medium,114.1,44.8,87.8,Merchant
+A0105,Cryiona,Aquari,Floating Islands,2024-04-17,,7,58.6,High,144.7,52.9,172.2,Farmer
+A0464,Ophzuon,Nebulon,Lava Basin,2024-11-24,2.6,11,49.7,Low,72.0,75.8,57.4,Explorer
+A0188,Varorix,Nebulon,Floating Islands,2025-09-24,2.2,12,75.1,Low,114.2,89.2,100.7,Crystal Miner
+A0170,Solxeliona,Nebulon,Floating Islands,2025-09-05,5.8,11,59.5,High,133.4,72.3,105.1,Research Scientist
+A0059,Praxon,Luminar,,2024-08-28,6.9,4,49.3,Medium,105.1,46.4,81.1,Planetary Guardian
+A0049,Fynorax,Nebulon,Ice Plains,2024-12-15,2.8,14,53.8,High,115.5,98.5,75.3,Farmer
+A0345,Lyrari,Crystalian,Crystal Forest,2024-04-01,5.5,7,92.8,Medium,170.3,42.4,41.9,Merchant
+A0236,Lyror,Nebulon,Northern Crater,2024-05-22,7.1,8,58.5,Medium,97.7,76.2,94.5,Planetary Guardian
+A0253,Fynquaax,Gravitar,Lava Basin,2024-05-13,6.6,7,51.6,High,116.3,51.7,2.6,Crystal Miner
+A0022,Noxora,Luminar,Crystal Forest,,8.2,10,80.2,High,141.6,64.7,96.5,Research Scientist
+A0314,Ophuun,Aquari,Northern Crater,2024-03-23,5.9,7,62.7,Medium,134.4,60.3,125.6,Merchant
+A0460,Graxeth,Luminar,Floating Islands,2024-12-02,3.6,8,76.0,High,,62.7,169.6,Explorer
+A0161,Sylzuis,Crystalian,Crystal Forest,2025-07-15,5.8,5,78.9,High,157.2,47.6,33.8,Merchant
+A0277,Xanphiex,Gravitar,lava basin,2024-01-25,2.6,5,36.3,Low,30.4,37.8,20.6, 
+A0444,Xylthalara,Crystalian,northern crater,2025-01-25,6.6,4,85.0,Medium,141.3,63.2,68.0,P. Guardian
+A0192,Vexmonalis,Gravitar,Lava Basin,,2.8,5,31.7,Medium,68.5,29.7,15.5,Explorer
+A0386,Orbalon,Gravitar ,Lava Basin,2025-08-16,7.5,3,56.2,High,105.7,31.1,27.5,Research Scientist
+A0294,Kelzuarae,Crystalian,Lava Basin,2025-03-22,4.8,4,68.6,Medium,112.6,46.8,24.4,Explorer
+A0414,Sylaris,Nebulon,Lava Basin,2024-03-19,7.5,13,37.8,High,89.7,81.4,63.4,Crystal Miner
+A0344,Noxyx,Crystalian,Northern Crater,2024-06-03,3.6,6,71.7,Medium,140.2,26.1,52.1,
+A0258,Lyrxelarax,Nebulon,Ice Plains,2025-02-02,6.4,11,53.6,Low,,90.6,61.1,Planetary Guardian
+A0309,Myrdraaris,Gravitar,Lava Basin,2025-11-20,2.2,3,51.8,Low,69.8,,23.0,Research Scientist
+A0150,Xylvekeon,Luminar,Floating Islands,2025-02-28,4.1,6,54.8,High,116.0,52.9,128.8,Farmer
+A0131,Korzeneron,Crystalian,Ice Plains,2025-04-03,3.9,6,83.1,Medium,141.8,45.1,54.1,Merchant
+A0152,Kryvekiona,Luminar,Floating Islands,2025-07-14,4.6,8,81.7,Medium,145.1,55.1,109.8,Merchant
+A0360,Lumthalora,Nebulon,Crystal Forest,2025-04-15,1.4,11,62.7,High,126.4,79.4,80.8,Explorer
+A0100,Kryrynalis,Luminar,Crystal Forest,2024-08-29,5.6,6,80.9,High,179.6,56.0,108 cm,Planetary Guardian
+A0373,Zoralis,Luminar,Floating Islands,2025-04-09,5.7,6,60.0,Medium,152.6,54.3,119.7,Farmer
+A0088,Zorxeleth,Nebulon,Crystal Forest,2024-10-19,3.5,17,71.9,Medium,113.7,100.0,70.7,Crystal Miner
+A0459,Vorionis,Luminar ,Crystal Forest,2024-08-07,1.1,4,78.7,High,166.4,50.5,86.5,Research Scientist
+A0331,Quixquaarax,Crystalian,Crystal Forest,2024-08-08,5.8,3,100.0,High,199.9,51.5,69.6,Explorer
+A0215,Zyyxar,Nebulon,Floating Islands,2025-07-03,6.5,12,58.8,Med,81.3,85.8,121.6,Explorer
+A0467,Varphinax,Luminar,Floating Islands,2025-01-16,4.7,6,62.5,Medium,130.6,60.1,163.2,Farmer
+A0122,Lummonnax,Gravitar,Lava Basin,2024-09-10,4.0,5,32.6,Low,58.4,43.6,11.6,Farmer
+A0125,Myrlyis,Luminar,Floating Islands,2025-08-19,,11,63.7,High,107.1,52.3,124.1,Explorer
+A0021,Lyris,Nebulon,Ice Plains,2024-12-01,6.4,8,43.6,High,107.5,82.4,67.6,Explorer
+A0189,Myror,Nebulon,Northern Crater,2024-02-24,7.3,11,57.6,Medium,79.5,97.7,88.6,
+A0072,Zephorix,Luminar,Lava Basin,2024-04-27,4.8,9,49.4,High,124.0,65.8,61.3,Research Scientist
+A0107,Astrquaorix,Crystalian,Crystal Forest,2025-11-03,3.3,3,81.5,Low ,138.4,31.7,34.3,Planetary Guardian
+A0271,Zephzoryxis,Gravitar,Floating Islands,2024-04-19,5.5,3,55.9,Low,75.9,36.5,65.7,Explorer
+A0349,Thalthalyxar,Crystalian,Floating Islands,3/25/2025,4.6,6,67.7,Medium,109.5,56.4,54.2,Farmer
+A0436,Kryvekith,Nebulon,Floating Islands,2024-10-03,4.0,13,56.8,Medium,,78.1,103.8,Crystal Miner
+A0103,Zephorax,Crystalian,Crystal Forest,2025-07-14,2.7,3,100.0,Low,122.3,31.4,31.5,Farmer

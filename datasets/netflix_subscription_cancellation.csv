@@ -1,0 +1,501 @@
+months_as_customer,hrs_watched_last_month,subscription_plan,has_multiple_profiles,cancel
+25,123,Standard,Yes,No
+5,9,Standard with Ads,Yes,Yes
+21,68,Standard with Ads,Yes,No
+62,120,Standard,No,No
+28,57,Standard,Yes,No
+33,48,Standard with Ads,Yes,No
+21,29,Standard with Ads,No,Yes
+37,69,Standard with Ads,Yes,No
+17,92,Standard,Yes,No
+46,87,Premium,Yes,No
+29,5,Standard,Yes,Yes
+80,113,Premium,No,No
+30,65,Premium,No,Yes
+25,48,Premium,No,No
+50,61,Standard,No,Yes
+63,45,Standard with Ads,No,No
+31,31,Standard with Ads,No,No
+24,8,Standard with Ads,No,Yes
+9,33,Standard,No,No
+9,36,Standard with Ads,No,Yes
+94,83,Standard,No,No
+23,17,Standard with Ads,Yes,Yes
+115,86,Standard,Yes,No
+15,65,Standard,Yes,No
+34,17,Standard with Ads,No,Yes
+74,57,Standard,Yes,No
+64,102,Standard,Yes,No
+34,0,Standard with Ads,No,Yes
+12,53,Standard with Ads,Yes,No
+13,56,Premium,No,No
+112,125,Premium,Yes,No
+66,86,Premium,Yes,No
+25,45,Standard with Ads,No,Yes
+41,91,Premium,No,No
+59,39,Premium,No,No
+41,54,Standard,Yes,No
+25,19,Standard with Ads,No,Yes
+70,118,Premium,Yes,No
+77,48,Standard,No,No
+84,115,Premium,Yes,No
+14,27,Standard with Ads,Yes,Yes
+55,42,Standard,Yes,No
+58,16,Standard with Ads,No,Yes
+11,97,Standard,Yes,No
+45,20,Standard with Ads,Yes,No
+25,100,Premium,No,No
+14,19,Standard,No,Yes
+46,33,Standard,No,Yes
+57,54,Premium,No,No
+29,43,Standard,Yes,Yes
+73,55,Standard,Yes,No
+18,53,Standard,No,No
+54,101,Premium,Yes,No
+38,15,Standard with Ads,No,Yes
+26,98,Standard,Yes,No
+29,58,Standard with Ads,Yes,Yes
+39,92,Premium,Yes,No
+36,63,Premium,Yes,No
+30,28,Standard with Ads,No,Yes
+17,53,Standard,No,Yes
+15,59,Premium,Yes,No
+43,75,Premium,No,No
+67,54,Standard,Yes,No
+120,78,Standard,Yes,No
+44,53,Standard with Ads,No,No
+120,98,Premium,Yes,No
+48,88,Premium,No,No
+8,19,Standard,No,Yes
+53,35,Premium,No,No
+51,45,Standard with Ads,No,No
+41,86,Standard,Yes,No
+16,29,Standard with Ads,No,No
+24,95,Standard,No,No
+48,59,Premium,Yes,No
+75,89,Premium,No,No
+81,46,Standard,No,No
+13,70,Standard,Yes,No
+47,90,Standard,Yes,No
+13,6,Standard with Ads,No,Yes
+77,78,Standard,Yes,No
+20,7,Standard with Ads,No,Yes
+22,28,Standard,Yes,Yes
+30,82,Standard,Yes,No
+18,60,Premium,Yes,No
+11,55,Standard,No,No
+53,69,Standard,No,Yes
+36,92,Premium,Yes,No
+43,78,Premium,No,No
+72,58,Standard with Ads,No,No
+25,55,Standard,Yes,No
+26,63,Standard,No,No
+64,64,Premium,No,No
+74,97,Premium,No,No
+19,30,Standard with Ads,No,Yes
+18,76,Standard,No,No
+26,46,Standard with Ads,Yes,Yes
+13,107,Premium,No,No
+48,112,Premium,Yes,No
+31,49,Standard,Yes,No
+16,4,Standard,No,Yes
+33,25,Standard with Ads,No,No
+25,28,Standard with Ads,No,Yes
+52,128,Premium,Yes,No
+60,66,Premium,No,No
+120,98,Premium,Yes,No
+73,38,Premium,No,No
+33,59,Standard,Yes,No
+23,61,Standard with Ads,Yes,No
+29,53,Standard,Yes,No
+53,60,Standard,Yes,No
+44,92,Premium,Yes,No
+23,79,Premium,Yes,No
+58,94,Standard,No,No
+57,75,Standard,No,No
+64,88,Standard,Yes,No
+45,34,Standard,No,Yes
+41,58,Standard with Ads,Yes,No
+22,59,Standard,Yes,No
+75,81,Standard,Yes,No
+40,38,Standard,No,No
+66,100,Premium,Yes,No
+26,80,Premium,Yes,No
+34,50,Standard,Yes,No
+18,97,Standard with Ads,Yes,No
+49,62,Standard with Ads,Yes,No
+47,22,Standard,No,Yes
+35,21,Premium,No,No
+27,78,Standard,Yes,No
+39,19,Standard with Ads,No,No
+54,62,Standard,Yes,No
+38,53,Standard with Ads,Yes,No
+112,52,Standard,Yes,No
+24,63,Standard,Yes,No
+53,104,Premium,Yes,No
+9,35,Standard with Ads,No,No
+16,0,Standard,No,Yes
+15,22,Premium,No,No
+34,103,Standard with Ads,Yes,No
+57,45,Standard,No,Yes
+120,57,Standard with Ads,No,No
+25,122,Premium,Yes,No
+61,88,Standard with Ads,Yes,No
+47,90,Premium,Yes,No
+45,83,Standard,Yes,No
+52,111,Standard,Yes,No
+46,34,Standard with Ads,Yes,No
+46,83,Standard,No,No
+99,64,Premium,No,No
+34,84,Premium,Yes,No
+9,54,Standard with Ads,Yes,Yes
+53,62,Standard,Yes,No
+20,54,Standard,Yes,Yes
+17,70,Standard,No,Yes
+7,72,Standard with Ads,Yes,No
+19,63,Standard,Yes,Yes
+27,70,Standard,No,No
+52,91,Premium,No,No
+7,100,Premium,Yes,No
+89,99,Premium,Yes,No
+44,46,Standard,No,Yes
+53,109,Standard,Yes,No
+120,82,Standard,No,No
+17,42,Standard with Ads,Yes,Yes
+50,92,Premium,No,No
+42,100,Premium,Yes,No
+75,48,Standard with Ads,Yes,No
+53,81,Premium,Yes,No
+103,90,Standard,Yes,No
+16,37,Premium,Yes,No
+33,87,Standard,No,No
+23,75,Standard with Ads,No,Yes
+89,132,Standard,Yes,No
+63,66,Standard,No,No
+62,82,Premium,Yes,No
+76,75,Standard with Ads,No,No
+80,75,Premium,No,No
+40,95,Premium,Yes,No
+53,40,Standard,No,No
+28,53,Standard,Yes,No
+62,110,Premium,Yes,No
+4,84,Premium,Yes,No
+120,117,Premium,Yes,No
+47,33,Standard,No,No
+34,27,Standard,No,No
+109,108,Standard,Yes,No
+39,43,Standard,No,No
+30,114,Premium,Yes,No
+26,99,Standard,Yes,No
+35,77,Standard with Ads,Yes,No
+46,55,Standard,Yes,No
+60,54,Premium,No,No
+120,88,Standard,Yes,No
+12,76,Premium,Yes,No
+9,72,Premium,Yes,No
+37,48,Standard,No,No
+109,64,Standard,Yes,No
+22,59,Standard,No,No
+28,43,Standard with Ads,No,No
+120,93,Premium,Yes,No
+17,46,Standard,No,No
+105,109,Premium,Yes,No
+33,62,Premium,No,No
+49,74,Standard,No,No
+98,74,Standard,Yes,No
+47,87,Standard,Yes,No
+29,19,Standard with Ads,No,Yes
+33,60,Premium,No,No
+14,101,Standard,Yes,No
+23,48,Standard,Yes,No
+37,62,Standard,Yes,No
+100,60,Standard,Yes,No
+49,56,Standard with Ads,No,Yes
+11,46,Standard,No,No
+84,77,Premium,Yes,No
+12,12,Standard with Ads,No,Yes
+18,45,Standard,No,No
+41,28,Standard with Ads,No,No
+30,60,Standard,No,Yes
+120,100,Premium,Yes,No
+63,48,Standard with Ads,No,Yes
+76,58,Standard,No,No
+61,57,Standard with Ads,No,No
+62,89,Standard,No,No
+30,60,Standard,Yes,No
+54,62,Standard,Yes,No
+91,93,Standard,Yes,No
+23,56,Standard,No,No
+30,53,Standard with Ads,Yes,Yes
+36,55,Standard with Ads,Yes,No
+106,98,Premium,Yes,No
+20,64,Standard with Ads,No,Yes
+26,46,Standard,Yes,No
+31,29,Standard,No,No
+48,23,Standard with Ads,No,No
+30,9,Premium,No,No
+33,81,Premium,No,No
+78,94,Premium,Yes,No
+41,40,Standard,No,No
+47,78,Standard,Yes,No
+120,113,Premium,Yes,No
+61,71,Premium,Yes,No
+41,60,Standard with Ads,No,No
+39,98,Standard,No,No
+63,51,Standard,Yes,No
+51,63,Standard,No,No
+70,104,Standard,Yes,No
+24,67,Premium,Yes,No
+32,18,Premium,Yes,No
+113,105,Premium,Yes,No
+120,94,Premium,No,No
+30,94,Premium,Yes,No
+59,74,Premium,Yes,No
+20,39,Standard with Ads,No,Yes
+26,66,Standard,Yes,No
+22,63,Standard,No,Yes
+40,96,Premium,Yes,No
+76,90,Standard,Yes,No
+4,46,Standard with Ads,Yes,Yes
+13,70,Standard,Yes,No
+24,88,Standard with Ads,Yes,No
+17,53,Standard with Ads,No,No
+18,75,Standard,Yes,No
+72,87,Standard,Yes,No
+43,119,Premium,Yes,No
+32,58,Premium,Yes,No
+51,99,Standard,Yes,No
+6,15,Standard,No,Yes
+55,76,Standard,Yes,No
+27,20,Standard with Ads,No,Yes
+47,44,Premium,No,Yes
+39,69,Premium,No,No
+41,72,Standard with Ads,Yes,No
+38,56,Premium,Yes,Yes
+39,37,Standard,Yes,No
+50,127,Premium,No,No
+36,49,Standard with Ads,Yes,No
+103,91,Standard,Yes,No
+46,40,Standard,No,No
+42,85,Standard,No,No
+70,81,Standard,No,Yes
+82,75,Standard,Yes,No
+59,46,Premium,No,No
+31,96,Premium,Yes,No
+11,43,Standard,Yes,No
+81,79,Standard,Yes,No
+23,69,Standard,No,No
+56,81,Premium,No,No
+43,44,Standard with Ads,No,No
+35,89,Standard,Yes,No
+41,83,Premium,Yes,No
+46,59,Premium,No,No
+47,66,Standard,No,No
+32,74,Standard,Yes,No
+31,58,Standard with Ads,No,No
+70,87,Standard with Ads,Yes,No
+88,107,Premium,Yes,No
+18,22,Standard with Ads,Yes,Yes
+99,89,Standard,Yes,No
+34,56,Standard,No,No
+51,65,Standard,No,No
+33,136,Premium,Yes,No
+107,104,Premium,Yes,No
+12,8,Standard with Ads,No,Yes
+26,75,Premium,Yes,No
+108,123,Standard,Yes,No
+32,50,Standard,Yes,No
+40,78,Premium,Yes,No
+54,66,Standard with Ads,Yes,No
+18,79,Standard,Yes,No
+120,117,Standard,Yes,No
+75,126,Premium,Yes,No
+50,90,Standard with Ads,Yes,No
+11,0,Standard with Ads,No,Yes
+47,59,Standard with Ads,No,Yes
+54,58,Standard,Yes,No
+22,93,Standard,No,No
+21,34,Standard with Ads,Yes,No
+90,56,Standard,No,No
+10,27,Standard with Ads,No,No
+72,32,Standard,No,No
+35,58,Standard,No,No
+99,67,Premium,No,No
+84,101,Premium,Yes,No
+52,68,Standard,Yes,No
+23,78,Standard with Ads,Yes,No
+37,49,Standard,No,No
+65,84,Premium,Yes,No
+78,35,Standard,No,No
+21,34,Standard,Yes,No
+81,71,Premium,Yes,No
+64,29,Standard with Ads,No,Yes
+19,30,Standard,No,No
+28,47,Premium,No,No
+48,86,Premium,Yes,No
+72,102,Standard,Yes,No
+83,102,Standard,Yes,No
+18,20,Standard,Yes,No
+16,71,Standard,Yes,No
+21,66,Standard with Ads,Yes,No
+39,97,Standard,Yes,No
+66,81,Standard,Yes,No
+120,109,Premium,Yes,No
+33,39,Standard with Ads,Yes,No
+14,26,Standard,No,Yes
+48,119,Standard,Yes,No
+87,102,Premium,Yes,No
+74,78,Premium,Yes,No
+72,58,Standard,No,No
+13,30,Standard with Ads,No,Yes
+12,46,Standard with Ads,No,No
+23,83,Premium,No,No
+37,64,Standard with Ads,No,No
+54,34,Standard,No,No
+23,94,Premium,Yes,No
+7,40,Premium,No,Yes
+27,74,Premium,No,No
+25,36,Standard with Ads,No,Yes
+38,85,Standard,Yes,No
+46,54,Standard,Yes,No
+107,107,Premium,Yes,No
+31,64,Standard with Ads,Yes,No
+75,33,Standard with Ads,No,Yes
+59,65,Standard with Ads,Yes,Yes
+21,1,Standard with Ads,No,Yes
+12,61,Standard,No,No
+109,77,Premium,Yes,No
+41,77,Standard with Ads,Yes,No
+120,100,Premium,No,No
+92,104,Premium,Yes,No
+32,53,Standard with Ads,Yes,No
+63,72,Standard,Yes,No
+45,69,Premium,Yes,No
+50,63,Premium,Yes,No
+77,92,Premium,No,No
+120,100,Premium,Yes,No
+31,43,Standard,Yes,No
+120,146,Premium,Yes,No
+41,0,Standard,No,Yes
+35,51,Standard with Ads,Yes,No
+46,36,Standard with Ads,No,No
+41,67,Premium,No,No
+28,55,Standard,No,No
+43,112,Premium,Yes,No
+120,72,Standard,Yes,No
+65,65,Standard,No,No
+90,115,Premium,Yes,No
+36,84,Premium,Yes,No
+24,49,Premium,No,No
+14,46,Standard with Ads,No,Yes
+42,43,Standard with Ads,Yes,No
+17,38,Standard with Ads,No,No
+31,83,Standard,No,No
+12,58,Standard with Ads,Yes,No
+76,70,Standard,Yes,No
+36,52,Standard with Ads,Yes,No
+8,60,Standard with Ads,No,No
+33,122,Premium,Yes,No
+15,38,Standard with Ads,No,Yes
+15,19,Standard with Ads,Yes,Yes
+58,105,Premium,Yes,No
+34,46,Standard,No,Yes
+34,119,Premium,Yes,No
+102,63,Standard with Ads,No,No
+94,61,Premium,Yes,No
+13,42,Standard with Ads,No,Yes
+18,43,Premium,No,Yes
+11,24,Standard,No,Yes
+75,87,Premium,Yes,No
+55,96,Standard,No,No
+57,31,Premium,No,No
+58,75,Premium,Yes,No
+95,75,Standard,Yes,No
+37,66,Standard,No,No
+35,60,Standard,Yes,No
+37,102,Premium,No,No
+93,20,Standard,No,Yes
+12,64,Premium,Yes,No
+35,79,Standard,Yes,No
+62,55,Standard,No,No
+31,34,Standard,Yes,Yes
+21,20,Standard with Ads,No,Yes
+23,73,Standard with Ads,Yes,No
+50,72,Premium,No,No
+32,76,Standard with Ads,Yes,No
+42,42,Standard with Ads,No,No
+62,70,Standard with Ads,Yes,No
+71,34,Premium,Yes,No
+22,67,Standard,Yes,No
+42,42,Standard with Ads,Yes,No
+34,79,Standard,No,No
+36,56,Standard,No,No
+20,80,Premium,No,No
+14,25,Standard with Ads,No,No
+69,109,Premium,Yes,No
+34,50,Standard with Ads,No,Yes
+75,78,Standard,No,No
+23,75,Standard,Yes,No
+51,90,Standard,Yes,No
+13,0,Standard,No,Yes
+120,160,Premium,Yes,No
+58,20,Premium,No,Yes
+71,96,Premium,Yes,No
+93,126,Standard,Yes,No
+72,61,Premium,No,Yes
+82,96,Standard,Yes,No
+37,79,Standard with Ads,No,Yes
+18,58,Standard,Yes,No
+10,0,Standard with Ads,No,Yes
+69,107,Premium,Yes,No
+10,81,Standard with Ads,No,No
+25,49,Standard with Ads,No,Yes
+50,0,Standard with Ads,No,No
+29,62,Standard with Ads,No,Yes
+48,103,Premium,No,No
+15,46,Premium,Yes,No
+93,105,Premium,Yes,No
+3,23,Standard with Ads,No,Yes
+50,83,Premium,No,No
+120,117,Premium,Yes,No
+17,58,Standard with Ads,Yes,No
+61,0,Standard with Ads,No,Yes
+43,73,Premium,Yes,No
+29,55,Premium,Yes,No
+16,107,Premium,Yes,No
+13,25,Premium,Yes,Yes
+25,0,Standard with Ads,Yes,Yes
+28,28,Premium,No,Yes
+56,91,Standard,Yes,No
+48,81,Standard,No,No
+65,55,Standard,Yes,No
+10,10,Standard,No,No
+120,59,Standard,Yes,No
+46,120,Standard,Yes,No
+18,38,Standard,No,Yes
+14,48,Standard with Ads,No,No
+120,88,Premium,Yes,No
+28,43,Standard with Ads,Yes,No
+30,40,Standard with Ads,No,Yes
+27,45,Standard,No,No
+13,54,Premium,No,No
+91,100,Premium,No,No
+19,33,Standard with Ads,No,No
+21,5,Standard with Ads,No,Yes
+120,105,Premium,Yes,No
+67,73,Premium,No,No
+10,40,Standard,Yes,No
+25,45,Premium,No,No
+23,35,Standard with Ads,No,Yes
+10,26,Standard,No,Yes
+34,42,Standard with Ads,Yes,No
+23,30,Standard with Ads,No,Yes
+26,24,Standard,No,Yes
+10,62,Standard,Yes,No
+30,111,Premium,Yes,No
+87,105,Premium,Yes,No
+61,64,Standard with Ads,Yes,No
+40,15,Standard,No,No
+56,67,Standard with Ads,Yes,No
+12,65,Standard,No,No
+14,42,Standard,No,Yes
